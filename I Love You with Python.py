@@ -32,19 +32,3 @@ t.write("Created By NS", font=['Arial', 25])
 
 
 turtle.done()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
