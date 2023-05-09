@@ -22,7 +22,7 @@ t.penup()
 t.goto(-115, 90)
 t.pendown()
 t.color("Black")
-t.write("I Love You\n So Much", font=['Bold', 40])
+t.write("I Love You!", font=['Bold', 40])
 
 t.penup()
 t.goto(-100, -100)
